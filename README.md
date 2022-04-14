@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React.js, Node.js, Express.js, MongoDb**
 
-- 💬 Ask me about **Js, react.js.**
-
 - 📫 How to reach me **rasheduap2015@gmail.com**
 
 - ⚡ Fun fact **midnight coder.**
