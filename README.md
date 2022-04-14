@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **rasheduap2015@gmail.com**
 
-- ⚡ Fun fact **midnight coder.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rashedevs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rashedevs" height="30" width="40" /></a>
