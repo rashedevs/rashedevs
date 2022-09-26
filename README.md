@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Rashed</h2>
 <h3 align="center">A passionate javascript developer.</h3>
 
-- 🌱 I’m currently learning **React.js, Node.js, Express.js, MongoDb**
+- 🌱 I’m currently working with **React.js, Node.js, Express.js, MongoDb**
 
 - 📫 How to reach me **rasheduap2015@gmail.com**
 
