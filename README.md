@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Rased Uz Zaman</h1>
-<h3 align="center">A Passionate Software Engineer From Planet Earth</h3>
+<h3 align="center">A Passionate Software Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952zz7rpjkl60ku7upvdm8gfvzz07zqv5ifv6qb0lbu&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
 
 <p align="left"> <a href="https://twitter.com/rashedevs" target="blank"><img src="https://img.shields.io/twitter/follow/rashedevs?logo=twitter&style=for-the-badge" alt="rashedevs" /></a> </p>
