@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/rashedevs" target="blank"><img src="https://img.shields.io/twitter/follow/rashedevs?logo=twitter&style=for-the-badge" alt="rashedevs" /></a> </p>
 
-- 🌱 I’m currently learning **GOLANG**
+- 🌱 I’m currently learning **GO**
 
 - 👨‍💻 All of my projects are available at [https://rased-portfolio-58.netlify.app/](https://rased-portfolio-58.netlify.app/)
 
