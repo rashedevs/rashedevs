@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1j8l5ShwSWuxjw-X9NfVAvWeaWSnDhAMW/view?usp=sharing](https://drive.google.com/file/d/1j8l5ShwSWuxjw-X9NfVAvWeaWSnDhAMW/view?usp=sharing)
 
-- ⚡ Fun fact **Belongs to your territory named earth!**
+- ⚡ Fun fact **Belongs to your territory earth!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
