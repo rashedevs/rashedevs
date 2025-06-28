@@ -6,7 +6,7 @@
 
 
 <!-- Second Line (tight above, more gap below) -->
-<p align="center" style="margin-top: 0; margin-bottom: 30px;">
+<p align="center" style="margin-top: 0;  margin-right: 0px; margin-bottom: 50px;">
   <img src="https://img.shields.io/badge/Just%20Another%20Software%20Engineer-000000?style=flat-square&logo=codeforces&logoColor=00FF00&labelColor=000000&color=000000&label=" />
 </p>
 
