@@ -1,7 +1,7 @@
 <!-- First Line -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExankyZGc5Z25xNW9zZGJmeDg1YmdkczhjZXkwaG03cnB0eXVqNTFpdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Fz9aoPHzancP4beVs6/giphy.gif" alt="lets code" width="80" style="vertical-align: middle; margin-right: 0px; padding-bottom: 0px;" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=false&vCenter=true&width=600&height=50&lines=Hi%2C+I'm+Rashed+Uz+Zaman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=false&vCenter=true&width=600&height=30&lines=Hi%2C+I'm+Rashed+Uz+Zaman" alt="Typing SVG" />
 </p>
 
 
