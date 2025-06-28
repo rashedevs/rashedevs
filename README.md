@@ -1,4 +1,7 @@
-<h1 align="center">👋 Hi, I'm Rashed Uz Zaman</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Rashed+Uz+Zaman" alt="Typing SVG" />
+</p>
+
 <h3 align="center">Just Another Software Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952zz7rpjkl60ku7upvdm8gfvzz07zqv5ifv6qb0lbu&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"/>
 
