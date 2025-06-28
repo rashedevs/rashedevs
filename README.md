@@ -1,12 +1,21 @@
 <!-- First Line -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExankyZGc5Z25xNW9zZGJmeDg1YmdkczhjZXkwaG03cnB0eXVqNTFpdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Fz9aoPHzancP4beVs6/giphy.gif" alt="lets code" width="80" style="vertical-align: middle; margin-right: 0px; padding-bottom: 0px;" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=false&vCenter=true&width=600&height=30&lines=Hi%2C+I'm+Rashed+Uz+Zaman" alt="Typing SVG" />
-</p>
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 24px;">
+  <img
+    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExankyZGc5Z25xNW9zZGJmeDg1YmdkczhjZXkwaG03cnB0eXVqNTFpdSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Fz9aoPHzancP4beVs6/giphy.gif"
+    alt="lets code"
+    width="80"
+    style="vertical-align: middle;"
+  />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=false&vCenter=true&width=600&height=40&lines=Hi%2C+I'm+Rashed+Uz+Zaman"
+    alt="Typing SVG"
+  />
+</div>
+
 
 
 <!-- Second Line (tight above, more gap below) -->
-<p align="center" style="margin-top: 0;  margin-right: 0px; margin-bottom: 50px;">
+<p align="center" style="margin-top: 20px;  margin-right: 0px; margin-bottom: 50px;">
   <img src="https://img.shields.io/badge/Just%20Another%20Software%20Engineer-000000?style=flat-square&logo=codeforces&logoColor=00FF00&labelColor=000000&color=000000&label=" />
 </p>
 
