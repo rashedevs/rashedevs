@@ -1,10 +1,13 @@
-<p align="center">
+<!-- First Line -->
+<p align="center" style="margin-bottom: 4px;">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%91%8B+Hi%2C+I'm+Rashed+Uz+Zaman" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<!-- Second Line (tight above, more gap below) -->
+<p align="center" style="margin-top: 0; margin-bottom: 30px;">
   <img src="https://img.shields.io/badge/Just%20Another%20Software%20Engineer-000000?style=flat-square&logo=codeforces&logoColor=00FF00&labelColor=000000&color=000000&label=" />
 </p>
+
 
 
 
